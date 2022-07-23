@@ -3,7 +3,7 @@
 # Calculadora de datos estadisticos
 
 # PASOS PARA USO
-# PASO 2
+# PASO 1
 
 ```bash
 
