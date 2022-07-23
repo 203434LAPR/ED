@@ -2,20 +2,13 @@
 
 # Calculadora de datos estadisticos
 
-# instalacion de recursos del framework librerias
+# PASOS PARA USO
 
 ```bash
 
-pip install djangorestframework
+Ingresar datos uno a uno hasta la cantidad deseada mediante el boton 'agregar'
 ```
 ```bash
-pip install markdown     
-```
-```bash
-pip install django-filter 
+Pulsar el boton   'calcular' para obtener la tabla de frecuencias y el resultado  
 ```
 
-## Agregar la libreria a INSTALLED_APPS en settings
-```bash
- 'rest_framework',
-```
